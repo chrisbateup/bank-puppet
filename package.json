@@ -1,0 +1,23 @@
+{
+  "name": "bank-puppet",
+  "version": "1.0.0",
+  "description": "Automate banking activity using Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisbateup/bank-puppet.git"
+  },
+  "author": "Chris Bateup",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisbateup/bank-puppet/issues"
+  },
+  "homepage": "https://github.com/chrisbateup/bank-puppet#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "puppeteer": "^1.6.1"
+  }
+}
